@@ -1,4 +1,4 @@
-package com.yunkefu.multiwechat;
+package com.cloudservice.multiwechat;
 
 /**
  * Created by fengguang.qiu on 2019/1/24.
